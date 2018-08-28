@@ -4,14 +4,14 @@ require_once("sdata-modules.php");
 /**
  * @Author: Hermas Bintang(HermasFrXX)
  * @Date:   2017-12-11 17:01:26
- * @Last Modified by:   Eka Syahwan
+ * @Last Modified by:   Hermas Bintang
  * @Last Modified time: 2018-08-17 15:13:34
 */
 
 
 ##############################################################################################################
 $config['deviceCode'] 		= '865987023760814';
-$config['tk'] 				= 'RJ20tL06OUlgh08HNxxFmwCH';
+$config['tk'] 				= 'ACGdtLS9OjlJYIdPBzccRZsAx4XNEAPCLCVxdHRodw';
 $config['token'] 			= 'ebecIPAcNhUVy5DhR21THKAAhhx6WNTWH4BABbFmzbvjJ7EAL2H3G3p1Y1eicZGVwQa3Bkh-yFVi97';
 $config['uuid'] 			= '5415d5c89b0242779caca31e6543b73d';
 $config['sign'] 			= '02b3127da21c51bb8b94f5837830d440';
