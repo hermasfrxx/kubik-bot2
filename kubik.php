@@ -2,9 +2,9 @@
 date_default_timezone_set('Asia/Jakarta');
 require_once("sdata-modules.php");
 /**
- * @Author: Eka Syahwan
+ * @Author: HermasFrXX
  * @Date:   2017-12-11 17:01:26
- * @Last Modified by:   Eka Syahwan
+ * @Last Modified by:   HermasFrXX
  * @Last Modified time: 2018-08-17 15:13:34
 */
 
